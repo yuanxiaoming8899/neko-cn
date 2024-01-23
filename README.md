@@ -1,158 +1,206 @@
-<div align="center">
-  <a href="https://github.com/m1k1o/neko" title="Neko's Github repository.">
-    <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/logo.png" width="400" height="auto"/>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+  <a href="https://github.com/m1k1o/neko" title="Neko 的 Github 存储库。">
+    <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/logo.png" width="400" height="auto" style="max-width: 100%;">
   </a>
-  <p align="center">
+  <p align="center" dir="auto">
     <a href="https://github.com/m1k1o/neko/releases">
-      <img src="https://img.shields.io/github/v/release/m1k1o/neko" alt="release">
+      <img src="https://camo.githubusercontent.com/d869718e7637787e50e0e57bb2b7ba1cd0e97a0376ce1040298fbe5e97da4cb2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6d316b316f2f6e656b6f" alt="发布" data-canonical-src="https://img.shields.io/github/v/release/m1k1o/neko" style="max-width: 100%;">
     </a>
     <a href="https://github.com/m1k1o/neko/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/m1k1o/neko" alt="license">
+      <img src="https://camo.githubusercontent.com/649e654bc60512ea33e7958c6c11c24b88a98ee23720a04edc24f078995344a3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d316b316f2f6e656b6f" alt="执照" data-canonical-src="https://img.shields.io/github/license/m1k1o/neko" style="max-width: 100%;">
     </a>
-    <a href="https://hub.docker.com/u/m1k1o/neko">
-      <img src="https://img.shields.io/docker/pulls/m1k1o/neko" alt="pulls">
+    <a href="https://hub.docker.com/u/m1k1o/neko" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/0f8d5eb6ac7405f72429286e7b6fe853fc1bac1d447f67a1dce0fc150f7be294/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6d316b316f2f6e656b6f" alt="拉" data-canonical-src="https://img.shields.io/docker/pulls/m1k1o/neko" style="max-width: 100%;">
     </a>
     <a href="https://github.com/m1k1o/neko/issues">
-      <img src="https://img.shields.io/github/issues/m1k1o/neko" alt="issues">
+      <img src="https://camo.githubusercontent.com/2108127eec3a638ab8fad135a963d29ed976b3b668400fedbb55d57957c922dc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6d316b316f2f6e656b6f" alt="问题" data-canonical-src="https://img.shields.io/github/issues/m1k1o/neko" style="max-width: 100%;">
     </a>
     <a href="https://github.com/sponsors/m1k1o">
-      <img src="https://img.shields.io/badge/-sponsor-red" alt="issues">
+      <img src="https://camo.githubusercontent.com/a753c4e445694a1872fae7d02c081283bc335b60310d189252db41cc046dfbf5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73706f6e736f722d726564" alt="问题" data-canonical-src="https://img.shields.io/badge/-sponsor-red" style="max-width: 100%;">
     </a>
-    <a href="https://discord.gg/3U6hWpC">
-      <img src="https://discordapp.com/api/guilds/665851821906067466/widget.png" alt="Chat on discord">
+    <a href="https://discord.gg/3U6hWpC" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/26fb0c7755320b8846ada4b86cac50822459edd0290b3798d995083676380f79/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3636353835313832313930363036373436362f7769646765742e706e67" alt="聊天不和谐" data-canonical-src="https://discordapp.com/api/guilds/665851821906067466/widget.png" style="max-width: 100%;">
     </a>
     <a href="https://github.com/m1k1o/neko/actions">
-      <img src="https://github.com/m1k1o/neko/actions/workflows/ghcr-amd.yml/badge.svg" alt="build">
+      <img src="https://github.com/m1k1o/neko/actions/workflows/ghcr-amd.yml/badge.svg" alt="建造" style="max-width: 100%;">
     </a>
   </p>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/intro.gif" width="650" height="auto"/>
+  <animated-image data-catalyst="" style="width: 650px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/intro.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/intro.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/intro.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="简介.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/intro.gif" height="auto" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="650" height="343"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放简介.gif" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放简介.gif">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 intro.gif" class="AnimatedImagePlayer-button" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/intro.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </div>
-
-# n.eko
-
-Welcome to Neko, a self-hosted virtual browser that runs in Docker and uses WebRTC technology. Neko is a powerful tool that allows you to **run a fully-functional browser in a virtual environment**, giving you the ability to **access the internet securely and privately from anywhere**. With Neko, you can browse the web, **run applications**, and perform other tasks just as you would on a regular browser, all within a **secure and isolated environment**. Whether you are a developer looking to test web applications, a **privacy-conscious user seeking a secure browsing experience**, or simply someone who wants to take advantage of the **convenience and flexibility of a virtual browser**, Neko is the perfect solution.
-
-In addition to its security and privacy features, Neko offers the **ability for multiple users to access it simultaneously**. This makes it an ideal solution for teams or organizations that need to share access to a browser, as well as for individuals who want to use **multiple devices to access the same virtual environment**. With Neko, you can **easily and securely share access to a browser with others**, without having to worry about maintaining separate configurations or settings. Whether you need to **collaborate on a project**, access shared resources, or simply want to **share access to a browser with friends or family**, Neko makes it easy to do so.
-
-Neko is also a great tool for **hosting watch parties** and interactive presentations. With its virtual browser capabilities, Neko allows you to host watch parties and presentations that are **accessible from anywhere**, without the need for in-person gatherings. This makes it easy to **stay connected with friends and colleagues**, even when you are unable to meet in person. With Neko, you can easily host a watch party or give an **interactive presentation**, whether it's for leisure or work. Simply invite your guests to join the virtual environment, and you can share the screen and **interact with them in real-time**.
-
-## About
-
-This app uses WebRTC to stream a desktop inside of a docker container, original author made this because [rabb.it](https://en.wikipedia.org/wiki/Rabb.it) went under and his internet could not handle streaming and discord kept crashing when his friend attempted to. He just wanted to watch anime with his friends ლ(ಠ益ಠლ) so he started digging throughout the internet and found a few *kinda* clones, but none of them had the virtual browser, then he found [Turtus](https://github.com/Khauri/Turtus) and he was able to figure out the rest.
-
-Then I found [this](https://github.com/nurdism/neko) project and started to dig into it. I really liked the idea of having collaborative browser browsing together with multiple people, so I created a fork. Initially, I wanted to merge my changes to the upstream repository, but the original author did not have time for this project anymore and it got eventually archived.
-
-## Use-cases and comparison
-
-Neko started as a virtual browser that is streamed using WebRTC to multiple users.
-- It is **not only limited to a browser**; it can run anything that runs on linux (e.g. VLC). Browser only happens to be the most popular and widely used use-case.
-- In fact, it is not limited to a single program either; you can install a full desktop environment (e.g. XFCE, KDE).
-- Speaking of limits, it does not need to run in a container; you could install neko on your host, connect to your X server and control your whole VM.
-- Theoretically it is not limited to only X server, anything that can be controlled and scraped periodically for images could be used instead.
-  - Like implementing RDP or VNC protocol, where neko would only act as WebRTC relay server. This is currently only future.
-
-Primary use case is connecting with multiple people, leveraging real time synchronization and interactivity:
-- **Watch party** - watching video content together with multiple people and reacting to it (chat, emotes) - open source alternative to [giggl.app](https://giggl.app/) or [hyperbeam](https://watch.hyperbeam.com).
-- **Interactive presentation** - not only screen sharing, but others can control the screen.
-- **Collaborative tool** - brainstorming ideas, cobrowsing, code debugging together.
-- **Support/Teaching** - interactively guiding people in controlled environment.
-- **Embed anything** - embed virtual browser in your web app - open source alternative to [hyperbeam API](https://hyperbeam.com/).
-  - open any third-party website or application, synchronize audio and video flawlessly among multiple participants.
-  - request rooms using API with [neko-rooms](https://github.com/m1k1o/neko-rooms).
-
-Other use cases that benefit from single-user:
-- **Personal workspace** - streaming containerized apps and desktops to end-users - similar to [kasm](https://www.kasmweb.com/).
-- **Persistent browser** - own browser with persistent cookies available anywhere - similar to [mightyapp](https://www.mightyapp.com/).
-  - no state is left on the host browser after terminating the connection.
-  - sensitive data like cookies are not transferred - only video is shared.
-- **Throwaway browser** - a better solution for planning secret parties and buying birthday gifts off the internet.
-  - use Tor Browser and [VPN](https://github.com/m1k1o/neko-vpn) for additional anonymity.
-  - mitigates risk of OS fingerprinting and browser vulnerabilities by running in container.
-- **Session broadcasting** - broadcast room content using RTMP (to e.g. twitch or youtube...).
-- **Session recording** - broadcast RTMP can be saved to a file using e.g. [nginx-rtmp](https://www.nginx.com/products/nginx/modules/rtmp-media-streaming/)
-  - have clean environment when recording tutorials.
-  - no need to hide bookmarks or use incognito mode.
-- **Jump host** - access your internal applications securely without the need for VPN.
-- **Automated browser** - you can install [playwright](https://playwright.dev/) or [puppeteer](https://pptr.dev/) and automate tasks while being able to actively intercept them.
-
-Compared to clientless remote desktop gateway (e.g. [Apache Guacamole](https://guacamole.apache.org/) or [websockify](https://github.com/novnc/websockify) with [noVNC](https://novnc.com/)), installed with remote desktop server along with desired program (e.g. [linuxserver/firefox](https://docs.linuxserver.io/images/docker-firefox)) provides neko additionally:
-- **Smooth video** because it uses WebRTC and not images sent over WebSockets.
-- **Built in audio** support, what is not part of Apache Guacamole or noVNC.
-- **Multi-participant control**, what is not natively supported by Apache Guacamole or noVNC.
-
-### Supported browsers
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/firefox.svg" title="m1k1o/neko:firefox" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/google-chrome.svg" title="m1k1o/neko:google-chrome" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/chromium.svg" title="m1k1o/neko:chromium" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/microsoft-edge.svg" title="m1k1o/neko:microsoft-edge" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/brave.svg" title="m1k1o/neko:brave" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/vivaldi.svg" title="m1k1o/neko:vivaldi" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/opera.svg" title="m1k1o/neko:opera" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/tor-browser.svg" title="m1k1o/neko:tor-browser" width="60" height="auto"/>
+<h1 tabindex="-1" dir="auto"><a id="user-content-neko" class="anchor" aria-hidden="true" tabindex="-1" href="#neko"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">恩科</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎使用 Neko，这是一个在 Docker 中运行并使用 WebRTC 技术的自托管虚拟浏览器。</font><font style="vertical-align: inherit;">Neko 是一个功能强大的工具，允许您</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在虚拟环境中运行功能齐全的浏览器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，使您能够</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从任何地方安全、私密地访问互联网</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">借助 Neko，您可以像在常规浏览器上一样</font><font style="vertical-align: inherit;">浏览网页、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行应用程序并执行其他任务，所有这些都在</font></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全且隔离的环境</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中进行。</font><font style="vertical-align: inherit;">无论您是想要测试 Web 应用程序的开发人员、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻求安全浏览体验的注重隐私的用户</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，还是只是想要利用</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虚拟浏览器的便利性和灵活性</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的人，Neko 都是完美的解决方案。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">除了安全和隐私功能外，Neko 还允许</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多个用户同时访问它</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">这使其成为需要共享浏览器访问权限的团队或组织以及想要使用</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多个设备访问同一虚拟环境的</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">个人的理想解决方案。</font><font style="vertical-align: inherit;">借助 Neko，您可以</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">轻松、安全地与其他人共享浏览器的访问权限</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，而不必担心维护单独的配置或设置。</font><font style="vertical-align: inherit;">无论您需要</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在项目上进行协作</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、访问共享资源，还是只是想</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与朋友或家人共享浏览器的访问权限</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，Neko 都能轻松实现。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neko 也是</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">举办观看派对</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和互动演示的绝佳工具。</font><font style="vertical-align: inherit;">凭借其虚拟浏览器功能，Neko 允许您举办可</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从任何地方访问的</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">观看聚会和演示，而无需亲自聚会。</font><font style="vertical-align: inherit;">即使您无法亲自见面，也</font><font style="vertical-align: inherit;">可以轻松地</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与朋友和同事保持联系。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">借助 Neko，您可以轻松举办观看聚会或进行</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互动演示</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，无论是休闲还是工作。</font><font style="vertical-align: inherit;">只需邀请您的客人加入虚拟环境，您就可以共享屏幕并</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与他们实时互动</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-about" class="anchor" aria-hidden="true" tabindex="-1" href="#about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个应用程序使用 WebRTC 在 docker 容器内流式传输桌面，原作者之所以这样做是因为</font></font><a href="https://en.wikipedia.org/wiki/Rabb.it" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rabb.it</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">崩溃了，他的互联网无法处理流式传输，并且当他的朋友尝试处理流式传输时，discord 不断崩溃。</font><font style="vertical-align: inherit;">他只是想和他的朋友ლ(ಠ益ಠლ)一起看动漫，所以他开始在互联网上挖掘，发现了一些</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克隆</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，但他们都没有虚拟浏览器，然后他找到了</font></font><a href="https://github.com/Khauri/Turtus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Turtus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，他能够找出休息。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后我发现了</font></font><a href="https://github.com/nurdism/neko"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目并开始深入研究。</font><font style="vertical-align: inherit;">我真的很喜欢与多人一起使用协作浏览器浏览的想法，所以我创建了一个分支。</font><font style="vertical-align: inherit;">最初，我想将我的更改合并到上游存储库，但原作者没有时间再处理这个项目，它最终被存档了。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-use-cases-and-comparison" class="anchor" aria-hidden="true" tabindex="-1" href="#use-cases-and-comparison"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用例和比较</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neko 最初是一个虚拟浏览器，使用 WebRTC 向多个用户进行流式传输。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不仅限于浏览器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">；</font><font style="vertical-align: inherit;">它可以运行任何在Linux 上运行的东西（例如VLC）。</font><font style="vertical-align: inherit;">浏览器恰好是最流行和最广泛使用的用例。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">事实上，它也不限于单个程序；</font><font style="vertical-align: inherit;">您可以安装完整的桌面环境（例如XFCE、KDE）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">说到限制，它不需要在容器中运行；</font><font style="vertical-align: inherit;">你可以在你的主机上安装 neko，连接到你的 X 服务器并控制你的整个虚拟机。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理论上它不仅限于X服务器，任何可以控制和定期抓取图像的东西都可以使用。
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">就像实现 RDP 或 VNC 协议一样，neko 仅充当 WebRTC 中继服务器。</font><font style="vertical-align: inherit;">目前这只是未来。</font></font></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要用例是利用实时同步和交互性与多人联系：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">观看派对</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 与多人一起观看视频内容并对其做出反应（聊天、表情） - </font></font><a href="https://giggl.app/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">giggl.app</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://watch.hyperbeam.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hyperbeam</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的开源替代品。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互动演示</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——不仅屏幕共享，其他人也可以控制屏幕。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">协作工具</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 集思广益、共同浏览、一起调试代码。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持/教学</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在受控环境中交互式地指导人们。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入任何东西- 在您的网络应用程序中嵌入虚拟浏览器 - </font></font></strong><font style="vertical-align: inherit;"></font><a href="https://hyperbeam.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hyperbeam API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的开源替代方案</font><font style="vertical-align: inherit;">。
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开任何第三方网站或应用程序，在多个参与者之间完美同步音频和视频。</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://github.com/m1k1o/neko-rooms"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 API 和neko-rooms</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请求房间</font><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">受益于单用户的其他用例：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">个人工作区</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将容器化应用程序和桌面流式传输给最终用户 - 类似于</font></font><a href="https://www.kasmweb.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">kasm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">持久浏览器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 自己的浏览器，具有可在任何地方使用的持久 cookie - 类似于</font></font><a href="https://www.mightyapp.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mightyapp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">终止连接后，主机浏览器上不会留下任何状态。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不会传输 Cookie 等敏感数据 - 仅共享视频。</font></font></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一次性浏览器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 计划秘密派对和从互联网上购买生日礼物的更好解决方案。
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Tor 浏览器和</font></font><a href="https://github.com/m1k1o/neko-vpn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VPN</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获得额外的匿名性。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过在容器中运行来降低操作系统指纹识别和浏览器漏洞的风险。</font></font></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">会话广播</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用 RTMP 广播房间内容（例如 twitch 或 youtube...）。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">会话录制- 可以使用</font></font></strong><font style="vertical-align: inherit;"><a href="https://www.nginx.com/products/nginx/modules/rtmp-media-streaming/" rel="nofollow"><font style="vertical-align: inherit;">nginx-rtmp</font></a><font style="vertical-align: inherit;">等将广播 RTMP 保存到文件中</font></font><a href="https://www.nginx.com/products/nginx/modules/rtmp-media-streaming/" rel="nofollow"><font style="vertical-align: inherit;"></font></a>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">录制教程时环境要干净。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无需隐藏书签或使用隐身模式。</font></font></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跳转主机</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 无需 VPN 即可安全访问您的内部应用程序。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化浏览器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 您可以安装</font></font><a href="https://playwright.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">剧作家</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://pptr.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">木偶师</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并自动执行任务，同时能够主动拦截它们。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与无客户端远程桌面网关（例如</font></font><a href="https://guacamole.apache.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache Guacamole</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font><font style="vertical-align: inherit;">带有</font><a href="https://novnc.com/" rel="nofollow"><font style="vertical-align: inherit;">noVNC的</font></a></font><a href="https://github.com/novnc/websockify"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">websockify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）相比，安装远程桌面服务器以及所需的程序（例如</font><a href="https://docs.linuxserver.io/images/docker-firefox" rel="nofollow"><font style="vertical-align: inherit;">linuxserver/firefox</font></a><font style="vertical-align: inherit;">）还提供了 neko：</font></font><a href="https://novnc.com/" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font><a href="https://docs.linuxserver.io/images/docker-firefox" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频流畅，</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因为它使用 WebRTC，而不是通过 WebSocket 发送的图像。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内置音频</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持，这不是 Apache Guacamole 或 noVNC 的一部分。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多参与者控制</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，Apache Guacamole 或 noVNC 本身不支持。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-supported-browsers" class="anchor" aria-hidden="true" tabindex="-1" href="#supported-browsers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持的浏览器</font></font></h3>
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/firefox.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/firefox.svg" title="m1k1o/neko:firefox" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/google-chrome.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/google-chrome.svg" title="m1k1o/neko:谷歌浏览器" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/chromium.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/chromium.svg" title="m1k1o/neko:铬" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/microsoft-edge.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/microsoft-edge.svg" title="m1k1o/neko:微软边缘" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/brave.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/brave.svg" title="m1k1o/neko:勇敢" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/vivaldi.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/vivaldi.svg" title="m1k1o/neko:维瓦尔第" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/opera.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/opera.svg" title="m1k1o/neko:歌剧" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/tor-browser.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/tor-browser.svg" title="m1k1o/neko:tor 浏览器" width="60" height="auto" style="max-width: 100%;"></a>
 </div>
-
-### Other programs
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/remmina.png" title="m1k1o/neko:remmina" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/vlc.svg" title="m1k1o/neko:vlc" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/xfce.svg" title="m1k1o/neko:xfce" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/kde.svg" title="m1k1o/neko:kde" width="60" height="auto"/>
-
-  ... others in <a href="https://github.com/m1k1o/neko-apps">m1k1o/neko-apps</a>
+<h3 tabindex="-1" dir="auto"><a id="user-content-other-programs" class="anchor" aria-hidden="true" tabindex="-1" href="#other-programs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他节目</font></font></h3>
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/remmina.png"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/remmina.png" title="m1k1o/neko:雷米娜" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/vlc.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/vlc.svg" title="m1k1o/neko:vlc" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/xfce.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/xfce.svg" title="m1k1o/neko:xfce" width="60" height="auto" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/kde.svg"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/kde.svg" title="m1k1o/neko:kde" width="60" height="auto" style="max-width: 100%;"></a>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">... </font></font><a href="https://github.com/m1k1o/neko-apps"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">m1k1o/neko-apps中的其他内容</font></font></a></p>
 </div>
-
-### Features
-
-  * Text Chat (With basic markdown support, discord flavor)
-  * Admin users (Kick, Ban & Force Give/Release Controls, Lock room)
-  * Clipboard synchronization (on [supported browsers](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/readText))
-  * Emote overlay
-  * Ignore user (chat and emotes)
-  * Persistent settings
-  * Automatic Login with custom url args. (add `?usr=<your-user-name>&pwd=<room-pass>` to the url.)
-  * Broadcasting room content using RTMP (to e.g. twitch or youtube...)
-  * Bidirectional file transfer (if enabled)
-
-<div align="center">
-
-With `NEKO_FILE_TRANSFER_ENABLED=true`:
-
-<img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/file-transfer.gif" width="650" height="auto"/>
+<h3 tabindex="-1" dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" tabindex="-1" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本聊天（具有基本的降价支持，不和谐的风格）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理员用户（踢出、禁止和强制给予/释放控制、锁定房间）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">剪贴板同步（在</font></font><a href="https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/readText" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持的浏览器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表情叠加</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">忽略用户（聊天和表情）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">持久设置</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用自定义 url 参数自动登录。</font><font style="vertical-align: inherit;">（添加</font></font><code>?usr=&lt;your-user-name&gt;&amp;pwd=&lt;room-pass&gt;</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">到网址。）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 RTMP 广播房间内容（例如 twitch 或 youtube...）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">双向文件传输（如果启用）</font></font></li>
+</ul>
+<div align="center" dir="auto">
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><code>NEKO_FILE_TRANSFER_ENABLED=true</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<animated-image data-catalyst="" style="width: 650px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/file-transfer.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/file-transfer.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/file-transfer.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="文件传输.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/file-transfer.gif" height="auto" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="650" height="343"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放文件传输.gif" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放文件传输.gif">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 file-transfer.gif" class="AnimatedImagePlayer-button" href="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/file-transfer.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </div>
-
-### Why n.eko?
-
-I like cats 🐱 (`Neko` is the Japanese word for cat), I'm a weeb/nerd.
-
-***But why the cat butt?*** Because cats are *assholes*, but you love them anyways.
-
-## Multiple rooms
-
-For n.eko room management software, visit [neko-rooms](https://github.com/m1k1o/neko-rooms).
-
-It also offers zero-knowledge [installation script (with HTTPS and Traefik)](https://github.com/m1k1o/neko-rooms/#zero-knowledge-installation-with-https-and-traefik).
-
-## Documentation
-
-* [Getting Started](https://neko.m1k1o.net/#/getting-started/)
-  * [Quick Start](https://neko.m1k1o.net/#/getting-started/quick-start)
-  * [Examples](https://neko.m1k1o.net/#/getting-started/examples)
-  * [Reverse Proxy](https://neko.m1k1o.net/#/getting-started/reverse-proxy)
-  * [Configuration](https://neko.m1k1o.net/#/getting-started/configuration)
-  * [Troubleshooting](https://neko.m1k1o.net/#/getting-started/troubleshooting)
-* [Mobile Support](https://neko.m1k1o.net/#/mobile-support)
-* [Contributing](https://neko.m1k1o.net/#/contributing)
-  * [Non Goals](https://neko.m1k1o.net/#/non-goals)
-  * [Technologies](https://neko.m1k1o.net/#/technologies)
-* [Changelog](https://neko.m1k1o.net/#/changelog)
-
-## How to contribute? How to build?
-
-Navigate to [.docker](.docker) folder for further information.
-
-## Support
-
-If you want to support this project, you can do it [here](https://github.com/sponsors/m1k1o).
+<h3 tabindex="-1" dir="auto"><a id="user-content-why-neko" class="anchor" aria-hidden="true" tabindex="-1" href="#why-neko"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么是n.eko？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我喜欢猫🐱（</font></font><code>Neko</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日语中“猫”的意思），我是个爱哭鬼/书呆子。</font></font></p>
+<p dir="auto"><em><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">但为什么是猫屁股呢？</font></font></strong></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因为猫是</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">混蛋</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，但你还是爱它们。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-multiple-rooms" class="anchor" aria-hidden="true" tabindex="-1" href="#multiple-rooms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多个房间</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 n.eko 房间管理软件，请访问</font></font><a href="https://github.com/m1k1o/neko-rooms"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">neko-rooms</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它还提供零知识</font></font><a href="https://github.com/m1k1o/neko-rooms/#zero-knowledge-installation-with-https-and-traefik"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装脚本（带有 HTTPS 和 Traefik）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2>
+<ul dir="auto">
+<li><a href="https://neko.m1k1o.net/#/getting-started/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a>
+<ul dir="auto">
+<li><a href="https://neko.m1k1o.net/#/getting-started/quick-start" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></a></li>
+<li><a href="https://neko.m1k1o.net/#/getting-started/examples" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例子</font></font></a></li>
+<li><a href="https://neko.m1k1o.net/#/getting-started/reverse-proxy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反向代理</font></font></a></li>
+<li><a href="https://neko.m1k1o.net/#/getting-started/configuration" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></a></li>
+<li><a href="https://neko.m1k1o.net/#/getting-started/troubleshooting" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://neko.m1k1o.net/#/mobile-support" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动支持</font></font></a></li>
+<li><a href="https://neko.m1k1o.net/#/contributing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a>
+<ul dir="auto">
+<li><a href="https://neko.m1k1o.net/#/non-goals" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非目标</font></font></a></li>
+<li><a href="https://neko.m1k1o.net/#/technologies" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://neko.m1k1o.net/#/changelog" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">变更日志</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-how-to-contribute-how-to-build" class="anchor" aria-hidden="true" tabindex="-1" href="#how-to-contribute-how-to-build"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何贡献？</font><font style="vertical-align: inherit;">如何建造？</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导航到</font></font><a href="/m1k1o/neko/blob/master/.docker"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.docker</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件夹以获取更多信息。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-support" class="anchor" aria-hidden="true" tabindex="-1" href="#support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想支持这个项目，可以</font></font><a href="https://github.com/sponsors/m1k1o"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行。</font></font></p>
+</article></div>
